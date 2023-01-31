@@ -231,6 +231,8 @@ button {
     background-image: url('https://media.discordapp.net/attachments/1041032583322009630/1067917406174990456/Menu.png?width=828&height=466');
     height: auto;
     background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
 }
 
 .bg-light {
